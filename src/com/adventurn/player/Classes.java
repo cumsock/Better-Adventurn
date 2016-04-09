@@ -2,6 +2,8 @@ package com.adventurn.player;
 
 public enum Classes {
 
-	WIZARD, SWORDSMAN, ARCHER;
+	WIZARD, 
+	SWORDSMAN, 
+	ARCHER;
 	
 }

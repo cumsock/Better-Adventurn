@@ -1,6 +1,7 @@
 package com.adventurn.player;
 
-public abstract class Warrior {
+public interface Warrior {
 
+	public Classes getWarrior();
 	
 }

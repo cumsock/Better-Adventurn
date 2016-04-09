@@ -8,5 +8,4 @@ public class Player {
 	private boolean isDead = false;
 	
 	
-	
 }
